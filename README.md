@@ -1,29 +1,24 @@
-# README
+##URL
+IPアドレス：3.115.17.208
+Github（最終課題のリポジトリ）：https://github.com/yoshida-ryuho/fleamarket_sample_79h
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Basic認証
+ID：admin
+Pass：password
 
-Things you may want to cover:
+## テスト用アカウント
+◯ 購入者用
+メールアドレス：buyer@buyer.com
+パスワード：buyer0000
 
-* Ruby version
+## 購入用カード情報
+番号：4242424242424242
+期限：12月/2020年
+セキュリティカード：123
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
+## 出品者用
+メールアドレス：guest@guest.com
+パスワード：guest0000
 
 ## usersテーブル
 |Column|Type|Options|
